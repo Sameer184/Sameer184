@@ -4,12 +4,11 @@ I'm Sameer, a passionate and creative software developer. I love building innova
 ### Master of Science student at University of Texas at Arlington in Computer Science.
 <br/>
 <br/>
+
 📫 **How to reach me**
 <br />
-<!--
 - 💬 [LinkedIn](https://www.linkedin.com/in/sameerm08/)
 - 📧 Email: sameer.miriyala45@gmail.com
--->
 
 ⚡ Feel free to check out my repositories and let's get connected!
 
