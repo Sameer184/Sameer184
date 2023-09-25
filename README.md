@@ -6,7 +6,7 @@ I'm Sameer, a passionate and creative software developer. I love building innova
 <br/>
 📫 **How to reach me**
 <br />
-![Static Badge](https://img.shields.io/badge/Sameer-Sameer?label=LinkedIn&labelColor=blue&color=grey&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsameerm08%2F)
+![](https://img.shields.io/badge/Sameer-Sameer?label=LinkedIn&labelColor=blue&color=grey&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsameerm08%2F)
 
 <!--
 - [LinkedIn](https://www.linkedin.com/in/sameerm08/)
