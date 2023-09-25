@@ -1,9 +1,17 @@
 ### Hi there 👋
 I'm Sameer, a passionate and creative software developer. I love building innovative solutions, learning new technologies, and collaborating with other developers to solve real-world problems.
 
+### Master of Science student at University of Texas at Arlington in Computer Science.
+<br/>
+<br/>
 📫 **How to reach me**
+[![](https://img.shields.io/badge/LinkedIn-Sameer-blue)](https://www.linkedin.com/in/sameerm08/)
+[![](https://img.shields.io/badge/GMail-sameer.miriyala%45gmail.com-red)](mailto:sameer.miriyala45@gmail.com)
+
+<!--
 - [LinkedIn](https://www.linkedin.com/in/sameerm08/)
 - 📧 Email: sameer.miriyala45@gmail.com
+-->
 
 ⚡ Feel free to check out my repositories and let's get connected!
 
