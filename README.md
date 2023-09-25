@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Sameer, a passionate and creative software developer. I love building innovative solutions, learning new technologies, and collaborating with other developers to solve real-world problems.
+
+📫 **How to reach me**
+- [LinkedIn](https://www.linkedin.com/in/sameerm08/)
+- 📧 Email: sameer.miriyala45@gmail.com
+
+🌱 **I'm currently learning...**
+- [Any technology, language, or framework you're learning]
+  
+⚡ Feel free to check out my repositories and let's get connected!
 
 <!--
 **Sameer184/Sameer184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
