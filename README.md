@@ -4,9 +4,6 @@ I'm Sameer, a passionate and creative software developer. I love building innova
 📫 **How to reach me**
 - [LinkedIn](https://www.linkedin.com/in/sameerm08/)
 - 📧 Email: sameer.miriyala45@gmail.com
-
-🌱 **I'm currently learning...**
-- [Any technology, language, or framework you're learning]
   
 ⚡ Feel free to check out my repositories and let's get connected!
 
