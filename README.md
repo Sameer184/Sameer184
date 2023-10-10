@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Sameer, a passionate and creative software developer. I love building innovative solutions, learning new technologies, and collaborating with other developers to solve real-world problems.
 
-### Master of Science student at University of Texas at Arlington in Computer Science.
+### Master of Science graduate at University of Texas at Arlington in Computer Science.
 <br/>
 <br/>
 
